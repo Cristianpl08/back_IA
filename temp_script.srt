@@ -1,0 +1,24 @@
+﻿1
+00:00:00,208 --> 00:00:02,616
+Narrator:Join the Audio
+description Movement:
+
+2
+00:00:02,689 --> 00:00:04,368
+Miguel:The Directors have the Floor
+
+3
+00:00:04,913 --> 00:00:07,813
+Have you finished 
+creating your video or film?
+
+4
+00:00:08,088 --> 00:00:12,167
+Do you want to make it accessible 
+to people with visual disabilities?
+
+5
+00:00:12,671 --> 00:00:16,759
+Did you know that at least 
+2.2 billion people worldwide
+
